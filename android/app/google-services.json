@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750595810488",
+    "project_id": "flash-chat-e4642",
+    "storage_bucket": "flash-chat-e4642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750595810488:android:c481b09b06976e7b20404d",
+        "android_client_info": {
+          "package_name": "co.nightfall.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750595810488-5tmpprbf03pe2jc4pa3ei1094o0a0fee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOvcYnp7HpAJJ-76pR8_oHLrkfBMYMLJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750595810488-5tmpprbf03pe2jc4pa3ei1094o0a0fee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
